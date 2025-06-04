@@ -5,3 +5,5 @@ joblib==1.4.0
 Pillow==10.3.0
 tqdm
 pandas==2.2.2
+gunicorn==21.2.0
+
